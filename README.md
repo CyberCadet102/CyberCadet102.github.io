@@ -1,3 +1,3 @@
-# CyberCadet102
+# CyberCadet
 
 Welcome to my page.
